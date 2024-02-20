@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Knap_Aman",
+            "request": "launch",
+            "mainClass": "Knap_Aman",
+            "projectName": "JAVA PROJECTS_5f48850c"
+        },
+        {
+            "type": "java",
+            "name": "LetsBuidConnection",
+            "request": "launch",
+            "mainClass": "LetsBuidConnection",
+            "projectName": "JAVA PROJECTS_d99a7db7"
+        },
+        {
+            "type": "java",
+            "name": "ConnectfromDB",
+            "request": "launch",
+            "mainClass": "ConnectfromDB",
+            "projectName": "JAVA PROJECTS_d99a7db7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "GenerateBill",
+            "request": "launch",
+            "mainClass": "GenerateBill",
+            "projectName": "JAVA PROJECTS_d99a7db7"
+        },
+        {
+            "type": "java",
+            "name": "KnapSackFractional",
+            "request": "launch",
+            "mainClass": "KnapSackFractional",
+            "projectName": "JAVA PROJECTS_d99a7db7"
+        },
+        {
+            "type": "java",
+            "name": "Knap_Aman",
+            "request": "launch",
+            "mainClass": "Knap_Aman",
+            "projectName": "JAVA PROJECTS_d99a7db7"
+        },
+        {
+            "type": "java",
+            "name": "Knap_Home",
+            "request": "launch",
+            "mainClass": "Knap_Home",
+            "projectName": "JAVA PROJECTS_d99a7db7"
+        },
+        {
+            "type": "java",
+            "name": "Validation",
+            "request": "launch",
+            "mainClass": "Validation",
+            "projectName": "JAVA PROJECTS_d99a7db7"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "JAVA PROJECTS_d99a7db7"
+        }
+    ]
+}
